@@ -20,8 +20,9 @@ print("_______█▓▒░░▒▓██")
 print("_________░▒▓██")
 print("_______░▒▓██")
 print("_____░▒▓██")
-print("MADE BY 32181045")
 Print("DONT NOT LOGIN WITH MAIN ACCOUNT")
+print("MADE BY 32181045")
+
 
 uid = uuid.uuid4()
 
@@ -117,7 +118,7 @@ def spam():
 
             report = r.post(url_report, data=datas)
 
-            print("done by 𓆩zubz𓆪".format(done))
+            print("report done by zubz".format(done))
 
             sleep(sle)
 
@@ -181,7 +182,7 @@ def self():
 
             report = r.post(url_report, data=datas)
 
-            print("fucked by 𓆩𝐌𝐚𝐟𝐢𝐚 𝐁𝐨𝐲𝐬𓆪".format(done))
+            print("report done by zubz".format(done))
 
             sleep(sle)
 
@@ -245,7 +246,7 @@ def hate():
 
             report = r.post(url_report, data=datas)
 
-            print("fucked by 𓆩𝐌𝐚𝐟𝐢𝐚 𝐁𝐨𝐲𝐬𓆪".format(done))
+            print("report done by zubz".format(done))
 
             sleep(sle)
 
@@ -309,7 +310,7 @@ def harsement():
 
             report = r.post(url_report, data=datas)
 
-            print("fucked by 𓆩𝐌𝐚𝐟𝐢𝐚 𝐁𝐨𝐲𝐬𓆪".format(done))
+            print("report done by zubz".format(done))
 
             sleep(sle)
 
@@ -381,7 +382,7 @@ def Ssleorpromotiondrugs():
 
             report = r.post(url_report, data=datas)
 
-            print("fucked by 𓆩𝐌𝐚𝐟𝐢𝐚 𝐁𝐨𝐲𝐬𓆪".format(done))
+            print("report done by zubz".format(done))
 
             sleep(sle)
 
@@ -453,7 +454,7 @@ def Violenceorthreatofviolence():
 
             report = r.post(url_report, data=datas)
 
-            print("fucked by 𓆩𝐌𝐚𝐟𝐢𝐚 𝐁𝐨𝐲𝐬𓆪".format(done))
+            print("report done by zubz".format(done))
 
             sleep(sle)
 
@@ -525,7 +526,7 @@ def Nudityorpornography():
 
             report = r.post(url_report, data=datas)
 
-            print("fucked by 𓆩𝐌𝐚𝐟𝐢𝐚 𝐁𝐨𝐲𝐬𓆪".format(done))
+            print("report done by zubz".format(done))
 
             sleep(sle)
 
@@ -589,7 +590,7 @@ def mex():
 
             report = r.post(url_report, data=datas)
 
-            print("fucked by 𓆩levz𓆪".format(done))
+            print("report done by zubz".format(done))
 
             sleep(sle)
 
