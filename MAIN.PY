@@ -20,7 +20,7 @@ print("_______█▓▒░░▒▓██")
 print("_________░▒▓██")
 print("_______░▒▓██")
 print("_____░▒▓██")
-Print("DONT NOT LOGIN WITH MAIN ACCOUNT")
+print("DONT NOT LOGIN WITH MAIN ACCOUNT")
 print("MADE BY 32181045")
 
 
